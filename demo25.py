@@ -1,6 +1,6 @@
 from requests import Request, Session
 
-url = 'http://www.httpbin.org/post'
+url = 'https://httpbin.org/post'
 data = {'name': 'germey'}
 headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36'

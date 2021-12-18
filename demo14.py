@@ -1,4 +1,4 @@
 import requests
 
-response = requests.get('https://static2.scrape.center/')
+response = requests.get('https://ssr2.scrape.center/')
 print(response.status_code)
